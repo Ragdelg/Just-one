@@ -30,7 +30,7 @@ https://chocolatey.org/install
 * Debian or Ubuntu
 ```$ apt install git-lfs``` or ```$ apt-get install git-lfs```
 * Fedora
-```$ yum install git-lfs`
+```$ yum install git-lfs```
 * Arch Linux
 ```$ yaourt git-lfs-bin```
 
