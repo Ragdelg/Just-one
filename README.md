@@ -8,7 +8,7 @@
 * Debian or Ubuntu
 ```$ apt install git``` or ```$ apt-get install git```
 * Fedora
-```$ yum install git`
+```$ yum install git```
 * Arch Linux
 ```$ pacman -S git```
 
